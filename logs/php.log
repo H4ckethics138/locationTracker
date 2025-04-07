@@ -1,0 +1,37 @@
+[Sun Apr  6 20:37:38 2025] PHP 8.2.27 Development Server (http://0.0.0.0:8080) started
+[Sun Apr  6 20:37:41 2025] 127.0.0.1:42010 Accepted
+[Sun Apr  6 20:37:41 2025] 127.0.0.1:42010 [200]: GET /index.html
+[Sun Apr  6 20:37:41 2025] 127.0.0.1:42010 Closing
+[Sun Apr  6 20:38:00 2025] 127.0.0.1:57838 Accepted
+[Sun Apr  6 20:38:00 2025] 127.0.0.1:57838 [200]: GET /
+[Sun Apr  6 20:38:00 2025] 127.0.0.1:57838 Closing
+[Sun Apr  6 20:38:12 2025] 127.0.0.1:48298 Accepted
+[Sun Apr  6 20:38:12 2025] 127.0.0.1:48298 [200]: GET /
+[Sun Apr  6 20:38:12 2025] 127.0.0.1:48298 Closing
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48314 Accepted
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48330 Accepted
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48342 Accepted
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48342 [200]: GET /js/location.js
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48314 [200]: GET /css/main.css
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48342 Closing
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48314 Closing
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48330 [200]: GET /js/info.js
+[Sun Apr  6 20:38:14 2025] 127.0.0.1:48330 Closing
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39418 Accepted
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39420 Accepted
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39422 Accepted
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39418 [200]: GET /images/googlelogo_color_116x41dp.png
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39420 [200]: GET /images/locked_doc-1.svg
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39418 Closing
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39420 Closing
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39422 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sun Apr  6 20:38:17 2025] 127.0.0.1:39422 Closing
+[Sun Apr  6 20:38:23 2025] 127.0.0.1:39434 Accepted
+[Sun Apr  6 20:38:23 2025] 127.0.0.1:39438 Accepted
+[Sun Apr  6 20:38:23 2025] 127.0.0.1:39438 [200]: GET /images/drive_favicon1.ico
+[Sun Apr  6 20:38:23 2025] 127.0.0.1:39434 [200]: POST /php/info.php
+[Sun Apr  6 20:38:23 2025] 127.0.0.1:39434 Closing
+[Sun Apr  6 20:38:23 2025] 127.0.0.1:39438 Closing
+[Sun Apr  6 20:38:28 2025] 127.0.0.1:40714 Accepted
+[Sun Apr  6 20:38:28 2025] 127.0.0.1:40714 [200]: POST /php/result.php
+[Sun Apr  6 20:38:28 2025] 127.0.0.1:40714 Closing

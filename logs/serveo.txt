@@ -1,0 +1,13 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+[32mForwarding HTTP traffic from https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net
+[0mHTTP request from 152.58.73.111 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/css/main.css
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/js/info.js
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/js/location.js
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/images/googlelogo_color_116x41dp.png
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/images/locked_doc-1.svg
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/php/info.php
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/images/drive_favicon1.ico
+HTTP request from 152.59.103.59 to https://2f3f67a31d8a3f621b1b499a7329e7db.serveo.net/php/result.php
