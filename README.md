@@ -8,7 +8,7 @@
 
   <br>
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/H4ckethics138/locationTracker/blob/main/res/Screenshot_2025_0407_161530.jpg"></p>
 
 ###### <p align="center">Accurate GPS Location Tracker (Android, IOS, Windows phones.)
 <p align=center>
